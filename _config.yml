@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "yoo01"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yoo SeongJong"
+name                     : "Yoo"
 description              : "Baby Coder"
 url                      : "https://yoo01.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
