@@ -100,9 +100,9 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    - label: "아무거나 먹자 !"
+      icon: "fas fa-utensils"
+      url: "https://yoo01.github.io/menu/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
